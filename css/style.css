@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a {
+    color:red;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color:darkorange;
+    text-decoration:none;
+    cursor:pointer;
+}
+.margin{
+    margin-top: 20px;
+}
+
+
+
+
+.container{
+    margin: 0 30px;
+}
+.topHeading{
+    text-align: center;
+}
+.topHead{
+    color: red;
+    background-color: #f2fff8;
+    font-size: 60px;
+}
+.bannerImage{
+    width: 500px;
+    height: 400px;
+    border-radius: 50%;
+}
+.banner{
+    text-align: center;
+}
+.personalInfo{
+    
+    text-align: center;
+}
+.infoHead{
+    color: orangered;
+    text-align: center;
+    background: #f2fff8;
+    font-size: 50px;
+}
+.infoName{
+    color:brown;
+    font-size: 30px;
+}
+.infoDetails,.infoDetails1{
+    font-size: 20px;
+}
+.hobbyHead{
+    color: palevioletred;
+    text-align: center;
+    background: #f2fff8;
+    font-size: 50px;
+}
+.hobbyName{
+    color: brown;
+    font-size: 20px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.hobbyElem{
+    margin-left: 20px;
+}
+.foot{
+    text-align: center;
+}
+.FL{
+    color: violet;
+       text-align: center;
+    background: #f2fff8;
+    font-size: 50px
+    
+}
+.linkTable{
+    background-color:burlywood;
+}
+.quata{
+    color: blue;
+    text-align: center;
+    background: #f2fff8;
+    font-size: 50px;
+}
+.bi{
+    width: 100%;
+    height: 200px;
+}
