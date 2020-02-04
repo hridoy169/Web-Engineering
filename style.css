@@ -1,0 +1,58 @@
+body,h1,h2,h3,h4,h5,p{
+
+    margin: 0px;
+    body: 0px;
+}
+
+.team-member{
+
+    background-color: yellowgreen;
+    padding: 30px 0px;
+}
+.team-member:after{
+
+    content:'';
+    display: block;
+    clear: both;
+
+    
+}
+
+.team{
+    float: left;
+    overflow: hidden;
+    width: 33.33%;
+    height: 2000px;
+}
+.team img{
+
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin: auto;
+    display: block;
+}
+.team h3{
+
+    text-align: center;
+    font-size: 24px;
+    font-family: Arial;
+    margin: 10px 0px;
+    color: tomato;
+}
+.team h4{
+    text-align: center;
+    margin: auto;
+    width: 70%;
+    font-family: Arial;
+    font-size: 16px;
+}
+.team p{
+    text-align: center;
+    margin: auto;
+    width: 70%;
+    font-family: Arial;
+    font-size: 16px;
+    color: whitesmoke;
+
+}
